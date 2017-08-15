@@ -19,6 +19,6 @@ Add the pod 'hkGraddiant' in your podfile ou just copy the GradientView.swift in
 
 ### Enjoy it.
 
-![Image 03](https://github.com/heuristisk/hkGraddiant/blob/master/Images/UIView.png?raw=true)
+![Image 03](https://github.com/heuristisk/hkGraddiant/blob/master/Images/UIVIew.png?raw=true)
 
 
