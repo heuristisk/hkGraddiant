@@ -2,11 +2,11 @@
 
 This is a component to render a gradient view.
 
-## How to install
+## How to setup it
 
 Add the pod 'hkGraddiant' in your podfile ou just copy the GradientView.swift in your project.
 
-## How to use
+## How to use it
 ---------
 #### Step 1 - Drag and drop a UIView control into your view controller and set the UIView custom class as image below:
 
