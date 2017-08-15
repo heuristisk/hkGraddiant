@@ -16,6 +16,7 @@ Add the pod 'hkGraddiant' in your podfile ou just copy the GradientView.swift in
 #### Step 2 - Go to Xcode's attributes inspector and set your parameters as showed in the image below:
 
 ![Image 02](https://github.com/heuristisk/hkGraddiant/blob/master/Images/Parameters.png?raw=true)
+
 ---------------
 #### Step 3 - Enjoy it.
 
