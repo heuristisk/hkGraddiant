@@ -8,5 +8,8 @@ Add pod 'hkGraddiant' in your podfile ou just copy the GradientView.swift in you
 
 ## How to use
 
-![Image 01]
-(https://github.com/heuristisk/hkGraddiant/blob/master/Images/AddViewRef.png?raw=true)
+
+
+
+
+![Image 01](https://github.com/heuristisk/hkGraddiant/blob/master/Images/AddViewRef.png?raw=true)
