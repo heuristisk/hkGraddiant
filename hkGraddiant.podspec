@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'hkGraddiant'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'Gradient view component'
  
   s.description      = <<-DESC
@@ -13,7 +13,7 @@ This is a component for make gradient background
   s.source           = { :git => 'https://github.com/heuristisk/hkGraddiant.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '8.0'
-  s.source_files = '**'
+  s.source_files = 'hkGraddiant/*.swift'
  
 end
 
