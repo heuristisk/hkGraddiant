@@ -23,3 +23,4 @@ Add the pod 'hkGraddiant' in your podfile ou just copy the GradientView.swift in
 ![Image 03](https://github.com/heuristisk/hkGraddiant/blob/master/Images/UIVIew.png?raw=true)
 
 
+* Created by _Anderson Santos Gusmão_
